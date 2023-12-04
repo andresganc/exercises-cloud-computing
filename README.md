@@ -1,2 +1,7 @@
-# course-cloud-computing
-NC Course - Cloud Computing
+
+# EXERCISES CLOUD COMPUTING
+
+    - Exerrcises Andres - Cloud Computing
+
+
+## TABLE OF CONTENTS
